@@ -1,0 +1,11 @@
+D:\DOTNET\Projects\working-with-linq\bin\Debug\netcoreapp3.1\working-with-linq.exe
+D:\DOTNET\Projects\working-with-linq\bin\Debug\netcoreapp3.1\working-with-linq.deps.json
+D:\DOTNET\Projects\working-with-linq\bin\Debug\netcoreapp3.1\working-with-linq.runtimeconfig.json
+D:\DOTNET\Projects\working-with-linq\bin\Debug\netcoreapp3.1\working-with-linq.runtimeconfig.dev.json
+D:\DOTNET\Projects\working-with-linq\bin\Debug\netcoreapp3.1\working-with-linq.dll
+D:\DOTNET\Projects\working-with-linq\bin\Debug\netcoreapp3.1\working-with-linq.pdb
+D:\DOTNET\Projects\working-with-linq\obj\Debug\netcoreapp3.1\working-with-linq.csprojAssemblyReference.cache
+D:\DOTNET\Projects\working-with-linq\obj\Debug\netcoreapp3.1\working-with-linq.AssemblyInfoInputs.cache
+D:\DOTNET\Projects\working-with-linq\obj\Debug\netcoreapp3.1\working-with-linq.AssemblyInfo.cs
+D:\DOTNET\Projects\working-with-linq\obj\Debug\netcoreapp3.1\working-with-linq.dll
+D:\DOTNET\Projects\working-with-linq\obj\Debug\netcoreapp3.1\working-with-linq.pdb
