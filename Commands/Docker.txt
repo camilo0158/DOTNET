@@ -1,0 +1,25 @@
+-- dotnet publish -c Release
+
+-- Docker file
+
+FROM mcr.microsoft.com/dotnet/core/runtime:3.1
+
+COPY app/bin/Release/netcoreapp3.1/publish/ app/
+
+ENTRYPOINT ["dotnet", "app/myapp.dll"]
+
+> docker images
+> docker build -t myimage -f Dockerfile .
+> docker images
+> docker create myimage
+> docker ps -a
+> docker start gallant_lehmann
+> docker stop gallant_lehmann
+> docker ps
+> docker attach --sig-proxy=false gallant_lehmann
+
+-- Ejecucion unica
+
+> docker run -it --rm myimage
+
+
