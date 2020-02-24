@@ -1,14 +1,19 @@
 import React from 'react';
 import './App.css';
-import {Item, Item2} from './item';
+import {Comment} from './components/funtionalComponents';
+import Inicio from './components/Pages/Inicio';
+
+const miFuncion = (valor) =>{
+  return valor * 2;
+}
+
 
 function App() {
   return (
     <div className="App">
-      <Item idItem="Uno"/>
-      <Item idItem="Dos"/>
-      <Item idItem="Tres"/>
-      <Item2 />
+      <Comment nombre="Juan"/>
+      <Comment nombre="Camilo"/>
+      <Inicio multiplicar={miFuncion}/>
     </div>
   );
 }
