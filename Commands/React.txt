@@ -1,0 +1,4 @@
+ npx create-react-app app-clase1  
+ npm start
+ npm install react-router-dom
+ npm install node-sass 

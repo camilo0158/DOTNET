@@ -11,8 +11,6 @@ const Navegacion = (
 
 )
 
-
-
 class Main extends Component {
         
     render() {
