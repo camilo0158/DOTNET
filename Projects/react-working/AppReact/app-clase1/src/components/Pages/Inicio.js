@@ -21,7 +21,7 @@ class Inicio extends Component{
     render(){
         return(
             <div>
-                <label>{this.props.multiplicar(this.state.contador)}</label>
+           
             <div className = "alert alert-primary">
                 <button onClick={this.actualizarContador}>Incrementar</button>
                 <label>Contador: {this.state.contador}</label>
