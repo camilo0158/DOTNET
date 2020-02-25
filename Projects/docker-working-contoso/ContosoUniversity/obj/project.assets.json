@@ -8470,11 +8470,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DOTNET\\Projects\\ContosoUniversity\\ContosoUniversity.csproj",
+      "projectUniqueName": "D:\\DOTNET\\Projects\\docker-working-contoso\\ContosoUniversity\\ContosoUniversity.csproj",
       "projectName": "ContosoUniversity",
-      "projectPath": "D:\\DOTNET\\Projects\\ContosoUniversity\\ContosoUniversity.csproj",
+      "projectPath": "D:\\DOTNET\\Projects\\docker-working-contoso\\ContosoUniversity\\ContosoUniversity.csproj",
       "packagesPath": "C:\\Users\\jmartineza\\.nuget\\packages\\",
-      "outputPath": "D:\\DOTNET\\Projects\\ContosoUniversity\\obj\\",
+      "outputPath": "D:\\DOTNET\\Projects\\docker-working-contoso\\ContosoUniversity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jmartineza\\AppData\\Roaming\\NuGet\\NuGet.Config"
