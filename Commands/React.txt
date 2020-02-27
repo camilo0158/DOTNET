@@ -2,3 +2,8 @@
  npm start
  npm install react-router-dom
  npm install node-sass 
+ npm install axios
+
+Consumir APIS
+
+https://github.com/public-apis/public-apis

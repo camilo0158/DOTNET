@@ -24,3 +24,14 @@ export const Photo = (props) => {
 
     );
 }
+
+export const PersonInformation = (props) =>{
+    return (
+        <div className="">
+            <label>Nombre: {props.name}</label>
+            <label>Contraseña: {props.password}</label>
+            <img alt="" src={props.image}></img>
+        </div>
+
+    )
+}
